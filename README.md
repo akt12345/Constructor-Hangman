@@ -7,7 +7,7 @@ Created a hangman command-line game using constructor functions.
 Node.js
 Inquirer NPM Package
 JavaScrpit
-JQuery
+
 
 
 ## Instructions
